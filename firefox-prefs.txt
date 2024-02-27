@@ -1,0 +1,3 @@
+user_pref("intl.locale.requested", "zh-CN");
+user_pref("intl.locale.requested", "zh-TW");
+user_pref("intl.accept_languages", "zh-CN,zh-TW,en-us,en");
