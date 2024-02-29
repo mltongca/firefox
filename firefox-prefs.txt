@@ -1,4 +1,3 @@
 // test
-user_pref("intl.locale.requested", "zh-CN");
-user_pref("intl.locale.requested", "zh-TW");
-user_pref("intl.accept_languages", "zh-CN,zh-TW,en-us,en");
+user_pref("intl.locale.requested", "pl");
+user_pref("intl.accept_languages", "pl,en-us,en");
